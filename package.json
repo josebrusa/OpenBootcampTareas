@@ -1,0 +1,22 @@
+{
+  "name": "openbootcamptareas",
+  "version": "1.0.0",
+  "description": "tareas del bootcamp",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/josebrusa/OpenBootcampTareas.git"
+  },
+  "keywords": [
+    "reactjs"
+  ],
+  "author": "brusa jose",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/josebrusa/OpenBootcampTareas/issues"
+  },
+  "homepage": "https://github.com/josebrusa/OpenBootcampTareas#readme"
+}
